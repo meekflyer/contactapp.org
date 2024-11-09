@@ -1,0 +1,7 @@
+title: "My Awesome Site"
+description: "A blog about awesome things"
+baseurl: "" # Leave blank for project repository, or set it like "/repo-name" if using a project site.
+url: "https://meekflyer.github.io/contactapp.org/" # Replace with your GitHub Pages URL.
+theme: jekyll-theme-minimal # Example theme, change as needed.
+plugins:
+  - jekyll-feed
